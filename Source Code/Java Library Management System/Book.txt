@@ -1,0 +1,24 @@
+1
+The Cat in the Hat
+Dr. Seuss
+true
+2
+The Lion, the Witch and the Wardrobe
+C.S Lewis
+true
+3
+The Curious Incident of the Dog in the Night-Time
+Mark Haddon
+true
+4
+Head First Java
+Kathy Sierra and Bert Bates
+true
+5
+Thinking in Java
+Bruce Eckel
+true
+6
+Java: The Complete Reference
+Herbert Schildt
+true
